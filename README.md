@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Eshank Vaish from India :pushpin:
 - 👀 I’m interested in Front End Development
 - 👨🏻‍💻 I’m currently working as a Senior Front-End Developer - I at Josh Technology Group
-- 💞️ I’m looking to collaborate on React and Flutter
 
 <p>
   <a href="https://www.linkedin.com/in/eshankvaish/"><img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
