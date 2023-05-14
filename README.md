@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Eshank Vaish from India :pushpin:
 - 👀 I’m interested in Front End Development
+- 💻 I'm currently building applications in React and TypeScript
 - 👨🏻‍💻 I’m currently working as a Senior Front-End Developer - I at Josh Technology Group
-
-<a href="https://app.daily.dev/eshankvaish"><img src="https://api.daily.dev/devcards/4bbe5540a74346b4b45469d7d8ce007e.png?r=4gg" width="400" alt="Eshank Vaish's Dev Card"/></a>
 
 <p>
   <a href="https://www.linkedin.com/in/eshankvaish/"><img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
