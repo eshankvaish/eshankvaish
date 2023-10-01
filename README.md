@@ -5,7 +5,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/eshankvaish/"><img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://medium.com/@eshank.vaish"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
   <a href="https://www.twitter.com/eshankvaish"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 </p>
 
