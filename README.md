@@ -1,17 +1,11 @@
-- 👋 Hi, I’m Eshank Vaish from India :pushpin:
-- 👀 I’m interested in Front End Development
-- 💻 I'm currently building applications in React and TypeScript
-- 👨🏻‍💻 I’m currently working as a SDE-II (Front-End).
+## 👋 Hi, I’m Eshank Vaish from India :pushpin:
 
-<p>
-  <a href="https://www.linkedin.com/in/eshankvaish/"><img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://www.twitter.com/eshankvaish"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-</p>
-
-
+[![GitHub eshankvaish](https://img.shields.io/github/followers/eshankvaish?label=follow&style=social)](https://github.com/eshankvaish)
+[![Linkedin: Eshank Vaish](https://img.shields.io/badge/-Eshank%20Vaish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eshankvaish/)](https://www.linkedin.com/in/eshankvaish/)
+[![Twitter: Eshank Vaish](https://img.shields.io/twitter/follow/eshankvaish?style=social)](https://twitter.com/eshankvaish)
+[![Peerlist: Eshank Vaish](https://img.shields.io/badge/-Eshank%20Vaish-white?style=flat-square&logo=peerlist&logoColor=green&link=https://peerlist.io/eshankvaish)](https://peerlist.io/eshankvaish)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eshankvaish.eshankvaish)
 
-<!---
-eshankvaish/eshankvaish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Eshank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshankvaish&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/eshankvaish)
+
+[![Eshank's stats](https://github-readme-streak-stats.herokuapp.com/?user=eshankvaish&count_private=true&show_icons=true&theme=calm)](https://github.com/eshankvaish)
