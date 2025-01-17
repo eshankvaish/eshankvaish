@@ -9,4 +9,4 @@
 
 [![Eshank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshankvaish&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/eshankvaish)
 
-[![Eshank's stats](https://github-readme-streak-stats.herokuapp.com/?user=eshankvaish&count_private=true&show_icons=true&theme=calm)](https://github.com/eshankvaish)
+[![Eshank's stats](https://github-readme-streak-stats.herokuapp.com?user=eshankvaish&theme=calm&border_radius=4&exclude_days=Sun%2CSat)](https://github.com/eshankvaish)
